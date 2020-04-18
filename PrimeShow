@@ -18,6 +18,5 @@ public class PrimeCount
             if(count==1)
                 System.out.printf("%d ",i);
         }
-    }
-    
+    }   
 }
